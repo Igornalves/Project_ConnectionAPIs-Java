@@ -6,6 +6,7 @@ public class App {
 
         Metheds metodos = new Metheds();
 
+        
         System.out.println("Hello, World!");
         System.out.println(metodos.CoisasAleatorias());
 
